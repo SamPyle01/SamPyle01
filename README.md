@@ -1,14 +1,13 @@
-## Hi there 👋
+## Hello there 👋
 
-**SamPyle01/SamPyle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My Name is Sam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on my indevidual thesis project that will be presensted in the fall! 
+- 🌱 I’m currently learning ardrinos and 3D Modeling 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
 - 📫 How to reach me: 
 email: SamPyle01@gmail.com
 
