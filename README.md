@@ -34,6 +34,18 @@ This project strengthened my ability to structure information visually, design m
 [View Project](https://kimchampion.github.io/personality-planets/)  
 A collaborative, narrative-driven interactive experience that helped me practice user flow design, metaphor-based interaction, and teamwork within a shared design system.
 
+**favorite chips**
+[view [roject]9https://sampyle01.github.io/InClass--Exercise-2/)
+
+**Grad CAP**
+[Veiw Project](https://art-251.github.io/final/resource.html)
+
+**Fruit Tap**
+[Veiw Project](https://editor.p5js.org/SamPyle01/sketches/dbAEPpyV4)
+
+**Rhythm Compass**
+
+
 ---
 
 ### 🚀 What I’m Up To
@@ -41,12 +53,6 @@ A collaborative, narrative-driven interactive experience that helped me practice
 - 🌱 Learning **Arduino** and **3D modeling** to expand into physical and spatial interaction  
 - 🤔 Exploring ways to combine **data, storytelling, and interactivity**  
 - 💬 Ask me about **interaction design, data visualization, creative coding, or design process**
-
----
-
-### 🌈 About Me
-- 😄 **Pronouns:** She/Her  
-- ⚡ **Fun fact:** *(art, tech, or design-related — optional but fun!)*  
 
 ---
 
