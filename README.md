@@ -1,18 +1,28 @@
-## Hello there 👋
+## Hello there 👋  
 
+### I'm Sam  
 
-My Name is Sam
-Data vizualization Project 
-https://sampyle01.github.io/P2---Data-Viz/ 
+🎨 **Data Visualization & Creative Technology**  
 
-- 🔭 I’m currently working on my indevidual thesis project that will be presensted in the fall! 
-- 🌱 I’m currently learning ardrinos and 3D Modeling 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+🔗 **Featured Project:**  
+[Data Visualization Project](https://sampyle01.github.io/P2---Data-Viz/)  
 
-- 📫 How to reach me: 
-email: SamPyle01@gmail.com
+---
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Up To
+- 🔭 Currently working on my **individual thesis project**, to be presented in the fall  
+- 🌱 Learning **Arduino** and **3D modeling**  
+- 🤔 Exploring new ways to combine **data, design, and interactivity**  
+- 💬 Ask me about **data visualization, creative coding, or design process**
+
+---
+
+### 📫 Get in Touch
+- 📧 **Email:** SamPyle01@gmail.com  
+
+---
+
+### 🌈 About Me
+- 😄 **Pronouns:** She/Her  
+- ⚡ **Fun fact:** *(you can add something quirky here—art-related, tech-related, or personal!)*  
+
