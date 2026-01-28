@@ -2,6 +2,8 @@
 
 
 My Name is Sam
+Data vizualization Project 
+https://sampyle01.github.io/P2---Data-Viz/ 
 
 - 🔭 I’m currently working on my indevidual thesis project that will be presensted in the fall! 
 - 🌱 I’m currently learning ardrinos and 3D Modeling 
