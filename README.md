@@ -2,28 +2,57 @@
 
 ### I'm Sam  
 
-### 🌈 About Me
-- 😄 **Pronouns:** She/Her  
-- ⚡ **Fun fact:** *(you can add something quirky here—art-related, tech-related, or personal!)*  
-### I am a Masters Student at CSUEB studing interaction design. i am learning how to make cohesicve and user centered designs. these are some of my coding projects. for a more cohesive portfolio go check out my personal website sampyle.com
+🎓 **Master’s Student in Interaction Design at CSUEB**
 
-🔗 **Featured Project:**  
-[Data Visualization Project](https://sampyle01.github.io/P2---Data-Viz/)  
-[Personalitly Planets Group Project](https://kimchampion.github.io/personality-planets/)
+I study interaction design with a focus on creating **cohesive, user-centered experiences**. My work blends **design thinking, data, and creative coding** to explore how people understand and interact with information, systems, and interfaces.
+
+These coding projects help me become a stronger interaction designer by pushing me to think about **user flows, visual hierarchy, accessibility, feedback, and meaning-making**—not just how something looks, but how it *behaves* and *feels* to use.
+
+For a more curated and visual portfolio, visit my personal website:  
+🌐 **[sampyle.com](https://sampyle.com)**
+
+---
+
+### 🧠 How My Projects Support My Growth as an Interaction Designer
+
+Through these projects, I practice:
+- Translating complex information into **clear, intuitive interactions**
+- Designing systems that respond to **user input and behavior**
+- Iterating based on **usability, clarity, and engagement**
+- Balancing **aesthetic decisions** with functionality and accessibility
+- Collaborating and communicating design intent through interactive media
+
+---
+
+### 🔗 Featured Projects
+
+**📊 Data Visualization Project**  
+[View Project](https://sampyle01.github.io/P2---Data-Viz/)  
+This project strengthened my ability to structure information visually, design meaningful interactions with data, and consider how users explore and interpret complex datasets.
+
+**🪐 Personality Planets (Group Project)**  
+[View Project](https://kimchampion.github.io/personality-planets/)  
+A collaborative, narrative-driven interactive experience that helped me practice user flow design, metaphor-based interaction, and teamwork within a shared design system.
 
 ---
 
 ### 🚀 What I’m Up To
-- 🔭 Currently working on my **individual thesis project**, to be presented in the fall  
-- 🌱 Learning **Arduino** and **3D modeling**  
-- 🤔 Exploring new ways to combine **data, design, and interactivity**  
-- 💬 Ask me about **data visualization, creative coding, or design process**
+- 🔭 Working on my **individual thesis project**, to be presented in the fall  
+- 🌱 Learning **Arduino** and **3D modeling** to expand into physical and spatial interaction  
+- 🤔 Exploring ways to combine **data, storytelling, and interactivity**  
+- 💬 Ask me about **interaction design, data visualization, creative coding, or design process**
+
+---
+
+### 🌈 About Me
+- 😄 **Pronouns:** She/Her  
+- ⚡ **Fun fact:** *(art, tech, or design-related — optional but fun!)*  
 
 ---
 
 ### 📫 Get in Touch
-- 📧 **Email:** SamPyle01@gmail.com
-- ** website:** Sampyle.com
-- **LinkedIn:** www.linkedin.com/in/sampyle
+- 📧 **Email:** SamPyle01@gmail.com  
+- 🌐 **Website:** [sampyle.com](https://sampyle.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/sampyle](https://www.linkedin.com/in/sampyle)  
 
 ---
