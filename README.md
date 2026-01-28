@@ -34,6 +34,8 @@ This project strengthened my ability to structure information visually, design m
 [View Project](https://kimchampion.github.io/personality-planets/)  
 A collaborative, narrative-driven interactive experience that helped me practice user flow design, metaphor-based interaction, and teamwork within a shared design system.
 
+**Rhythm Compass**
+[use QR code to view on your device]
 <p align="center">
   <img src="colors.png" alt="Generative visual experiment exploring pattern, systems, and visual feedback" width="300"/>
 </p>
@@ -47,7 +49,6 @@ A collaborative, narrative-driven interactive experience that helped me practice
 **Fruit Tap**
 [Veiw Project](https://editor.p5js.org/SamPyle01/sketches/dbAEPpyV4)
 
-**Rhythm Compass**
 
 
 ---
