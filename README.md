@@ -77,8 +77,9 @@ My contribution focused on translating wireframes into a functional prototype. T
 
 ---
 
-### Fruit Tap (Group Project)  
-[View Project](https://editor.p5js.org/SamPyle01/sketches/dbAEPpyV4)  
+### Fruit Taps (Group Project)  
+[View Project](https://meeaaw.github.io/Fruit/)  
+[View Demo](https://editor.p5js.org/SamPyle01/sketches/dbAEPpyV4)  
 
 Inspired by household games such as Tetris and Fruit Ninja, Fruit Tap is a physical digital game that uses a Makey Makey controller and handmade physical fruit inputs. Players interact with tangible objects to control the game, blending physical play with digital feedback.
 
